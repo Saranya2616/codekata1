@@ -1,6 +1,6 @@
-b=str(input());
-if ((b>='a') & (b<='z')or (b>='A') & (b<='Z')): 
-    if b=='a'or b=='e'or b=='i'or b=='o'or b=='u'or b=='A'or b=='E'or b=='I'or b=='O'or b=='U':
+d=str(input());
+if ((d>='a') & (d<='z')or (d>='A') & (d<='Z')): 
+    if d=='a'or d=='e'or d=='i'or d=='o'or d=='u'or d=='A'or d=='E'or d=='I'or d=='O'or d=='U':
         print("Vowel")
     else:
         print("Consonant")
