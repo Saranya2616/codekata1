@@ -1,9 +1,9 @@
-d=int(input());
-e=int(input());
-f=int(input());
-if (d>=e)&(d>=f):
-    print(f)
-elif (e>=d)&(e>=f):
-    print(e)
+a=int(input());
+b=int(input());
+c=int(input());
+if (a>=b)&(a>=c):
+    print(a)
+elif (b>=a)&(b>=c):
+    print(b)
 else:
-    print(f)
+    print(c)
