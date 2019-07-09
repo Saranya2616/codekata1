@@ -1,6 +1,10 @@
-n=int("input:")
-count=0
-while(n>0):
-    count=count+1
-    n=n//10
-print("output:",count)
+
+
+x=input();
+if x is int:
+    y=len(str(x))
+    print(y)
+else:
+    y=int(x)
+    z=len(str(y))
+    print(x)
