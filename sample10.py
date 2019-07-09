@@ -7,4 +7,4 @@ if x is int:
 else:
     y=int(x)
     z=len(str(y))
-    print(x)
+    print(z)
