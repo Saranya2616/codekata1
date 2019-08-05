@@ -1,10 +1,10 @@
-num1=int(input())
-num2=int(input())
-if num1 & num2 is int:
-    num3=num1**num2
-    print(num3)
+a=int(input())
+b=int(input())
+if a & b is int:
+    c=a**b
+    print(c)
 else:
-    num3=int(num1)
-    num4=int(num2)
-    num5=num3**num4
-    print(num5)
+    d=int(a)
+    e=int(b)
+    f=c**d
+    print(f)
