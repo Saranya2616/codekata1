@@ -7,4 +7,4 @@ else:
     num5=int(num2)
     num6=int(num3)
     num7=num5**num6
-    print(num5)
+    print(num7)
